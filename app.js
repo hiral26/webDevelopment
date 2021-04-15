@@ -1,4 +1,5 @@
 //jshint esversion:6
+//used hashing too
 require('dotenv').config();
 const express = require("express");
 const bodyParser = require("body-parser");
